@@ -47,6 +47,34 @@ Then open: **http://localhost:3000**
 
 ---
 
+## ☁️ Run in Cloud (No Setup Required)
+
+### Google Colab
+
+Run directly in your browser - no installation needed!
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/madhielyousfi/YaYa-ai/blob/master/notebooks/yaya_ai_colab.ipynb)
+
+**Steps:**
+1. Click the badge above
+2. Enter your free API keys (Pexels/Pixabay)
+3. Run all cells
+4. Download your video!
+
+### Kaggle
+
+Run with free GPU on Kaggle!
+
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/madhielyousfi/yaya-ai-youtube-shorts-generator)
+
+**Steps:**
+1. Click the badge above
+2. Enable GPU: `Run time` > `Change runtime type` > **GPU (T4)`
+3. Run all cells
+4. Check the Output tab for your video!
+
+---
+
 ## 📦 Manual Installation
 
 ### 1. Backend (Python)
